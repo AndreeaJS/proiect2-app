@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import React from 'react';
 // import { render } from '@testing-library/react';
@@ -12,7 +12,7 @@ class App extends React.component {
   render() {
     return(
       <div>
-        Curs 05
+        Curs 05 - REACT
       </div>
     )
   }
